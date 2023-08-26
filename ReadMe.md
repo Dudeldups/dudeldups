@@ -1,5 +1,7 @@
 # Hey, I'm Arne! 👋🏻
 
+![via GIPHY](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg1aHRzamJuMGpwaWplYmRzZDlxbXM3OGtybWJ0NmVsZW5jOHdpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
+
 ## 🤓 About Me
 
 👨🏻‍🎓 I’m currently learning Typescript and React Router  
