@@ -1,12 +1,18 @@
+<div style="text-align: center">
+
 # Hey, I'm Arne! 👋🏻
 
 ![via GIPHY](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg1aHRzamJuMGpwaWplYmRzZDlxbXM3OGtybWJ0NmVsZW5jOHdpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
 
+</div>
+
 ## 🤓 About Me
 
-👨🏻‍🎓 I’m currently learning Typescript and React Router  
-🔭 My current project: [Planets fact site (challenge on Frontend Mentor)](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f)  
-👯 I’m looking to collaborate on any frontend / fullstack projects. Just hit me up 😉
+Some JavaScript coding games drew me into the enchanting realm of frontend development. At a certain point, I made the decision to go the whole nine yards and also learn HTML and CSS. And here I am, building beautiful websites, excited to keep learning and further developing my skills. 🤠
+
+🎓 I’m currently learning Typescript and React Router  
+🔨 My current project: [Planets fact site (challenge on Frontend Mentor)](https://www.frontendmentor.io/challenges/planets-fact-site-gazqN8w_f)  
+🤝🏻 I’m looking to collaborate on frontend / fullstack projects. Just hit me up if you're interested 😉
 
 ### 🌐 Socials
 
@@ -22,7 +28,7 @@
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=dudeldups&theme=dark&hide_border=false)  
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dudeldups&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### 💬 Random Dev Quote
 
 ![Random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
