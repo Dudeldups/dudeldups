@@ -7,9 +7,9 @@
 🤓 I'm a frontend developer from Germany.  
 🎓 Currently learning basic backend development  
 🤝🏻 Want to collaborate on frontend / fullstack projects? Just hit me up if you're interested 💬  
-🔨 My current project: [Coffeeroasters subscription site (challenge on Frontend Mentor)](https://www.frontendmentor.io/challenges/coffeeroasters-subscription-site-5Fc26HVY6)
+🔨 My current project: My own portfolio site 😀
 
-![Preview](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/nq94jwosne8ahc2eyslv.jpg)
+<!-- ![Preview]() -->
 
 ### 🌐 Socials
 
