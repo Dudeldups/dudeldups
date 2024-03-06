@@ -9,8 +9,6 @@
 🤝🏻 Want to collaborate on frontend / fullstack projects? Just hit me up if you're interested 💬  
 🔨 My current project: My own portfolio site 😀
 
-<!-- ![Preview]() -->
-
 ### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arne-jacob-a66041211/)
